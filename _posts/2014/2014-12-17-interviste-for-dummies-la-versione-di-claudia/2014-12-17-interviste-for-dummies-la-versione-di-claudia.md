@@ -1,0 +1,30 @@
+---
+title: "Interviste for Dummies: la versione di Claudia"
+usa_webp: true
+header:
+  immagine_tipo: "jpg"
+  miniatura: "claudia-falzone-e-le-interviste.webp"
+date: "2014-12-17"
+---
+
+Ricordo come se fosse ieri il giorno della [mia prima intervista]({% post_url 2014-12-03-la-cla-e-le-interviste-ma-perche %} "La Cla e le Interviste: ma perché?").
+
+Un pomeriggio novembrino di circa quattro anni fa ero a casa a studiare per il tanto temuto esame di sistemi giuridici comparati, quando mi arriva un messaggio da Jacopo (il mio capo di Outune). L'sms diceva “_Cla, mercoledì puoi andare tu a intervistare i Nightwish? Lo so che non hai mai fatto un'intervista ma non riesco ad andarci_”. Tra un misto di entusiasmo ed incoscienza, rispondo "_Sì!_". Poi realizzo “_Oddio, ma come diavolo si fa un'intervista? Cosa faccio? Cosa chiedo?_”. Devo dire che in quella circostanza mi è stato molto d'aiuto Stefano, un mio collega dalla cultura musicale infinita, che mi ha mandato una mail con qualche esempio di domande da fare. L'intervista con il frontman del gruppo, Tuomas Holopainen, è andata bene e da allora non ho più smesso. Oggi ripenso alla me stessa dell'epoca con un [pizzico di tenerezza]({% post_url 2014-12-01-claudia-falzone %} "Claudia Falzone vs The World"). Ed è per questo che vorrei elencare qualche consiglio per chi fosse alle prime armi. O, semplicemente, per rispondere a chi mi ha fatto più volte la fatidica domanda “**Come si fanno le interviste?**”.
+
+{% include picture img="claudia-falzone-e-le-interviste" ext="jpg" alt="" %}
+
+La preparazione è essenziale. Che abbiate a che fare con una band al suo decimo album o con un cantante emergente, **studiate la biografia dell'artista**. Documentatevi su Spotify o, in alternativa, andate a cercare qualche video su Youtube. Leggetevi la cartella stampa, approfondite il disco ascoltandolo tutte le volte di cui avete bisogno e prendetevi degli appunti in fase di ascolto. Quelle note, molto spesso, si rivelano miracolose in sede di intervista.
+
+Inizialmente, se avete a che fare con artisti stranieri, potreste incappare nell'errore di voler esasperare la vostra pronuncia a costo di sembrare la voce di default del Tomtom. Niente di più sbagliato! Ciò che conta, è che sappiate esprimervi, certo, ma soprattutto **dimostrate di sapere di cosa state parlando**. In fondo, siete lì per parlare del disco, del cantante, del gruppo, comunque un progetto che ha occupato uno o più anni della sua vita. Poco importa se sbagliate l'accento: è molto più grave, per dire, se chiedete ad una band metal se il suo ultimo lavoro ha preso ispirazione dagli album degli One Direction. O viceversa.
+
+Detto ciò, dopo esservi preparati a dovere, è importante essere in grado di formulare domande che, oltre alla vostra preparazione, riflettano anche la **vostra personalità**: se siete alle prime armi, infatti, è facile rimanere incastrati nel malefico Generatore Automatico di Interviste (elaborato dal mio collega Marco e spiegato in modo esaustivo [qui](https://www.musicattitude.it/attualita/news/gai-generatore-automatico-interviste/92313)). Però non preoccupatevi troppo: come tutte le cose, anche in questo caso la tecnica si perfeziona con l'esperienza. Troverete anche voi il vostro stile, è solo questione di esercizio.
+
+Quando intervistate qualcuno, è importante instaurare un rapporto di **stima reciproca e rispetto**: in fondo, state parlando con una persona che mette la parte più intima di sé nel suo lavoro. E' fondamentale il rispetto da ambo le parti, da parte vostra perché siete lì per lavorare, ma anche da parte della persona che state intervistando. Per quanto riguarda la mia esperienza personale, non ho mai avuto problemi a parte un'eccezione in cui il componente di una band ha fatto il gradasso con me (non vi dico chi, si dice il peccato ma non il peccatore). Cos'ho fatto in quel caso? Gli ho semplicemente ricordato, in modo cordiale ma fermo, che in fondo ero lì per lavoro e che il tono del pezzo sarebbe dipeso anche dal suo comportamento.
+
+Se da una parte bisogna stare attenti a mantenere un equilibrio tra le due parti senza prevaricare, dall'altra è altrettanto opportuno **controllare le proprie emozioni** per non lasciare che compromettano il proprio lavoro. Vi faccio un esempio: diverse volte mi sono trovata a intervistare persone che, con la loro musica, mi hanno accompagnata per anni. Da Slash a Caparezza, dai Blind Guardian ai Muse passando per Mark Tremonti degli Alter Bridge e gli Elio E Le Storie Tese, sono state diverse le occasioni in cui, se mi fossi fatta vincere dall'emozione, avrei compromesso il mio operato per eccesso di servilismo. Perché ok ammirare un artista, ma esagerare con le lusinghe non solo è controproducente ma denota anche assenza di serietà rischiando di sfociare nel ridicolo. Invece, grazie anche al mio carattere (e alla mia timidezza: vedete che anche questa ha dei vantaggi?) sono riuscita a separare le due entità di fan e intervistatrice. Quindi, ho portato a casa il pezzo in maniera professionale e, finito il mio dovere, sono riuscita a vivere il mio momento da fan riuscendo a fare una foto con gli artisti.
+
+Tutto ciò per dire cosa? Che **questa non è una lezione** né un decalogo, è solamente un modo per condividere una parte di me e poter essere utile a qualcuno. Quando ho iniziato io, sono stata buttata in mezzo alla mischia, senza avere una guida. Per fortuna questa professione mi piace talmente tanto da non mollare mai, anche dopo aver sbagliato, ma un sostegno mi sarebbe servito.
+
+Alla fine, però, **ciò che conta è mettere tutti noi stessi in ciò che facciamo**, senza avere la presunzione dell'esperto. Anzi, al contrario, non aver paura di commettere errori perché **è proprio dagli sbagli che si cresce e si migliora.** Anche nel campo professionale.
+
+Quindi, se vivete per la scrittura, o se avete qualche consiglio da dare, oppure se avete semplicemente voglia di condividere la vostra esperienza, potete far sentire la vostra voce: sarò ben lieta di ascoltarla.

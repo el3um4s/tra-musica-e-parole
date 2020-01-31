@@ -1,0 +1,11 @@
+{% assign img = include.img | split: '.' %}
+{% assign img = img[0] %}
+
+{% if page.usa_webp %}
+  <picture>
+      <source type='image/webp' srcset='{{site.immagini}}{{ page.date | date: "%Y/%Y-%m-%d"}}-{{page.url | remove_first: "/"}}{{ img }}.webp' >
+      <img src='{{site.immagini}}{{ page.date | date: "%Y/%Y-%m-%d"}}-{{page.url | remove_first: "/"}}{{ img }}.{{ include.ext }}' alt='{{ include.alt }}' />
+  </picture>
+{% else %}
+  <img src='{{site.immagini}}{{ page.date | date: "%Y/%Y-%m-%d"}}-{{page.url | remove_first: "/"}}{{ img }}.{{ include.ext }}' alt='{{ include.alt }}' />
+{% endif %}
