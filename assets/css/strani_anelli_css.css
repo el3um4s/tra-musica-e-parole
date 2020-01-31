@@ -14,27 +14,20 @@
   height: 100%;
 }
 
-.domanda_intervista {
-  color: #167ac6;
-}
+.domanda_intervista { color: #167ac6; }
+.iaia { color: #666699; }
+.iaio { color: #008000; }
+.persona { color: #a0a91a; }
 
-.iaia {
-  color: #666699;
-}
+.parla:before { content: " – "; }
+.parla:after { content:"\a"; white-space: pre; }
 
-.iaio {
-  color: #008000;
-}
 
-.persona {
-  color: #a0a91a;
+/* cambia il colore della barra laterale */
+body::-webkit-scrollbar { width: 1em; }
+body::-webkit-scrollbar-thumb {
+    background-color: #639497;
+    outline: 1px solid #639497;
+    border-radius: 4px;
 }
-
-.parla:before {
-  content: " – ";
-}
-
-.parla:after {
-    content:"\a";
-    white-space: pre;
-}
+body::-webkit-scrollbar-track { background-color: #1a1d24; }
