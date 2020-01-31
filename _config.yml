@@ -24,8 +24,8 @@ description              : "Sono Claudia e vivo tra Musica e Parole, in quel di 
 url                      : "https://www.tramusicaeparole.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/images/page-header-teaser.webp"
-logo                     : "https://el3um4s.github.io/tra-musica-e-parole/assets/images/logo-in-riga-pieno.svg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+teaser                   : "https://www.tramusicaeparole.com/assets/images/page-header-teaser.webp"
+logo                     : "https://www.tramusicaeparole.com/assets/images/logo-in-riga-pieno.svg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : " " # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -122,7 +122,7 @@ analytics:
 author:
   name             : "Claudia"
   twitter          : "el3um4s"
-  avatar           : https://el3um4s.github.io/tra-musica-e-parole/assets/images/avatar-claudia-falzone.jpg
+  avatar           : "https://www.tramusicaeparole.com/assets/images/avatar-claudia-falzone.jpg"
   bio              : "Sono Claudia e vivo tra Musica e Parole, in quel di Milano."
   location         : "Milano"
   email            :
