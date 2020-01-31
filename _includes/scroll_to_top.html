@@ -1,0 +1,30 @@
+<style>
+.scrollup {
+  position: fixed;
+  bottom: 10%;
+  right: 3%;
+  padding: 5px 15px;
+  color: #fff;
+  background-color: rgba(0,0,0,.1);
+  border-radius: 4px;
+  display: none;
+}
+</style>
+
+<a href="#top" class="scrollup" style="display: inline;" title="Go to top"> <i class="fa fa-long-arrow-up" aria-hidden="true"></i> </a>
+
+<script>
+  $(document).ready(function() {
+     $(window).scroll(function() {
+        if ($(this).scrollTop() > 100) {
+          $(".scrollup").fadeIn();
+        } else {
+          $(".scrollup").fadeOut();
+         }
+      });
+      $(".scrollup").click(function() {
+         $("html, body").animate( { scrollTop: 0 }, 600 );
+         return false;
+       });
+     });
+</script>
