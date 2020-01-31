@@ -11,20 +11,35 @@
 }
 </style>
 
-<a href="#top" class="scrollup" style="display: inline;" title="Go to top"> <i class="fa fa-long-arrow-up" aria-hidden="true"></i> </a>
+<a href="#top" onclick="scrollToTop(1000);" class="scrollup" style="display: inline;" title="Go to top"> <i class="fa fa-long-arrow-up" aria-hidden="true"></i> </a>
 
 <script>
-  $(document).ready(function() {
-     $(window).scroll(function() {
-        if ($(this).scrollTop() > 100) {
-          $(".scrollup").fadeIn();
-        } else {
-          $(".scrollup").fadeOut();
-         }
-      });
-      $(".scrollup").click(function() {
-         $("html, body").animate( { scrollTop: 0 }, 600 );
-         return false;
-       });
-     });
+  function scrollToTop(scrollDuration) {
+    const scrollHeight = window.scrollY;
+    const scrollStep = Math.PI / ( scrollDuration / 15 );
+    const  cosParameter = scrollHeight / 2;
+    let scrollCount = 0;
+    let scrollMargin;
+    let scrollInterval = setInterval( function() {
+              if ( window.scrollY != 0 ) {
+                  scrollCount = scrollCount + 1;
+                  scrollMargin = cosParameter - cosParameter * Math.cos( scrollCount * scrollStep );
+                  window.scrollTo( 0, ( scrollHeight - scrollMargin ) );
+              }
+              else clearInterval(scrollInterval);
+          }, 15 );
+  }
 </script>
+<!-- $(document).ready(function() {
+  $(window).scroll(function() {
+    if ($(this).scrollTop() > 100) {
+      $(".scrollup").fadeIn();
+    } else {
+      $(".scrollup").fadeOut();
+    }
+  });
+  $(".scrollup").click(function() {
+    $("html, body").animate( { scrollTop: 0 }, 600 );
+    return false;
+  });
+}); -->
