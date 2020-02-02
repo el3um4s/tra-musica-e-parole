@@ -4,8 +4,8 @@ usa_webp: true
 tagline: "Ho abbandonato questo posticino per più di tre anni e in questo periodo è successo di tutto e di più. Ma come dice il verso di una famosissima canzone italiana “Certi amori non finiscono, fanno dei giri immensi e poi ritornano” e io, senza musica e parole, non ci so proprio stare."
 header:
   immagine_tipo: "jpg"
-  miniatura: "si-ricomincia.webp"
-  immagine_estesa: "si-ricomincia.webp"
+  miniatura: "si-ricomincia"
+  immagine_estesa: "si-ricomincia"
   overlay_filter: rgba(79, 79, 79, 0.5)
 date: "2020-02-02 19:57"
 ---
