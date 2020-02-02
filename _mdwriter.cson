@@ -56,7 +56,6 @@ frontMatter: """
 ---
 title: "{title}"
 usa_webp: true
-excerpt_separator: <!--more-->
 header:
   immagine_tipo: "jpg"
   miniatura: "image.webp"
@@ -64,6 +63,7 @@ header:
   immagine_fonte: "Photo credit: [**CreditImageNome**](CreditImageURL)"
   overlay_filter: rgba(79, 79, 79, 0.5)
 date: "{date}"
+excerpt_separator: <!--more-->
 ---
 """
 

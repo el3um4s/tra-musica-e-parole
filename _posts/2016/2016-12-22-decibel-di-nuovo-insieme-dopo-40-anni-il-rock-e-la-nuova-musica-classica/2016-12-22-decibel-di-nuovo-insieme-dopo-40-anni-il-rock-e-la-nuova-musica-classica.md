@@ -2,12 +2,12 @@
 title: Decibel, di nuovo insieme dopo 40 anni "Il rock è la nuova musica classica"
 date: "2016-12-22"
 usa_webp: true
-excerpt_separator: <!--more-->
 header:
   miniatura: "Decibel-02"
   immagine_tipo: "jpg"
   immagine_estesa: "Decibel-02"
   overlay_filter: rgba(79, 79, 79, 0.5)
+excerpt_separator: <!--more-->
 ---
 
 Dopo quarant'anni dal secondo album, **Enrico Ruggeri e i Decibel si riuniscono** per dar vita al nuovo capitolo della discografia della band **_Noblesse Oblige_** in pubblicazione **il 10 marzo 2017 con 12 inediti e 3 grandi successi**.
