@@ -7,7 +7,8 @@ header:
 date: "2014-12-01"
 ---
 
-{% include picture img="claudia-falzone-tra-musica-e-parole" ext="jpg" alt="" %}{: .align-left}
+{% include picture img="claudia-falzone-immagine-grande.webp" ext="jpg" alt="" %}
+
 **È iniziato tutto per caso**, come succede per le cose più belle o per le storie d'amore più travolgenti, no? 2008: Statale di Milano, facoltà di lingue. E un'amica che mi dice “_perché non scrivi di musica?_”  “_Sì dai, perché no?_” faccio io con una buona dose di incoscienza.
 
 La settimana dopo mi trovo alla metropolitana di Missori ad aspettare Jacopo, il mio futuro capo nonché contatto avuto da una collega della mia suddetta amica. Che mi propone di mandargli una recensione di prova (la potete trovare [qui](https://www.musicattitude.it/dischi/hard/industrial-nine-inch-nails-the-slip-2008/5577) – dio, quanto mi vergogno) firmandomi _Claudia Falz_. Forse pensando, ingenuamente, che un nome d'arte sarebbe stato cool. Non so come sia possibile ma penso che sia piaciuta, se adesso sono ancora qui a parlarne.
