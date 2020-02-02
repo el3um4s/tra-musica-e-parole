@@ -1,11 +1,11 @@
 ---
 title: "Si ricomincia!"
 usa_webp: true
-excerpt: "Ho abbandonato questo posticino per più di tre anni e in questo periodo è successo di tutto e di più."
+tagline: "Ho abbandonato questo posticino per più di tre anni e in questo periodo è successo di tutto e di più. Ma come dice il verso di una famosissima canzone italiana “Certi amori non finiscono, fanno dei giri immensi e poi ritornano” e io, senza musica e parole, non ci so proprio stare."
 header:
   immagine_tipo: "jpg"
   miniatura: "si-ricomincia.webp"
-  immagine: "si-ricomincia.webp"
+  immagine_estesa: "si-ricomincia.webp"
   overlay_filter: rgba(79, 79, 79, 0.5)
 date: "2020-02-02 19:57"
 ---
@@ -16,7 +16,7 @@ La mia vita sentimentale ha subìto un cambiamento abbastanza significativo, cul
 
 Infine, anche la carriera ha avuto una svolta inaspettata: il giornalismo musicale ha lasciato spazio agli articoli food per un paio d’anni e da novembre il mio impiego principale non ha nulla a che fare con la scrittura.
 
-Ma come dice il verso di una famosissima canzone italiana “`Certi amori non finiscono, fanno dei giri immensi e poi ritornano`” e io, senza musica e parole, non ci so proprio stare.
+Ma come dice il verso di una famosissima canzone italiana “_Certi amori non finiscono, fanno dei giri immensi e poi ritornano_” e io, senza musica e parole, non ci so proprio stare.
 
 Per questo, dopo incredibili resistenze contro me stessa e la mia natura, ho deciso di arrendermi davanti all’evidenza e tornare ad abitare questi luoghi.
 
