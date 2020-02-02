@@ -5,7 +5,7 @@ excerpt: "Ho abbandonato questo posticino per più di tre anni e in questo perio
 header:
   immagine_tipo: "jpg"
   miniatura: "si-ricomincia.webp"
-  immagine_estesa: "si-ricomincia.webp"
+  immagine: "si-ricomincia.webp"
   overlay_filter: rgba(79, 79, 79, 0.5)
 date: "2020-02-02 19:57"
 ---
