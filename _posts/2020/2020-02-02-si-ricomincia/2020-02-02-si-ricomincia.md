@@ -1,7 +1,7 @@
 ---
 title: "Si ricomincia!"
 usa_webp: true
-tagline: "Ho abbandonato questo posticino per più di tre anni e in questo periodo è successo di tutto e di più."
+excerpt: "Ho abbandonato questo posticino per più di tre anni e in questo periodo è successo di tutto e di più."
 header:
   immagine_tipo: "jpg"
   miniatura: "si-ricomincia.webp"
