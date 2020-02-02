@@ -302,7 +302,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false  # CAMBIA QUI PER AGGIUNGERE IL TEMPO DI LETTURA
       comments: true
       share: true
       related: true
