@@ -58,7 +58,7 @@
 {% elsif page.header.immagine_estesa %}
   {% capture page_teaser_image %}{{site.immagini}}{{ page.date | date: "%Y/%Y-%m-%d"}}-{{page.url | remove_first: "/"}}{{ page.header.immagine_estesa }}.{{ ext_image }}{% endcapture %}
 {% endif %}
-{%- assign page_teaser_image = page_large_image | escape -%}
+{%- assign page_teaser_image = page_teaser_image | escape -%}
 
 {%- assign site_og_image = site.og_image -%}
 {%- unless site_og_image contains '://' -%}

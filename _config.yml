@@ -90,14 +90,12 @@ immagini                    : "https://raw.githubusercontent.com/el3um4s/tra-mus
 
 # modifiche varie
 twitter_username            : MusicaEtParole
-twitter                     :
-  username                  : "el3um4s"
-github_username             : el3um4s
+github_username             : LaIaia
 email                       : stranianelli@gmail.com
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "MusicaEtParole"
 facebook:
   username               :
   app_id                 :
@@ -121,7 +119,7 @@ analytics:
 # Site Author
 author:
   name             : "Claudia"
-  twitter          : "el3um4s"
+  twitter          : "MusicaEtParole"
   avatar           : "https://www.tramusicaeparole.com/assets/images/avatar-claudia-falzone.jpg"
   bio              : "Sono Claudia e vivo tra Musica e Parole, in quel di Milano."
   location         : "Milano"
