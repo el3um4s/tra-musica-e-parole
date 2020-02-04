@@ -91,7 +91,7 @@ immagini                    : "https://raw.githubusercontent.com/el3um4s/tra-mus
 # modifiche varie
 twitter_username            : MusicaEtParole
 github_username             : LaIaia
-email                       : stranianelli@gmail.com
+email                       : claudia@tramusicaeparole.com
 
 # Social Sharing
 twitter:
@@ -123,23 +123,23 @@ author:
   avatar           : "https://www.tramusicaeparole.com/assets/images/avatar-claudia-falzone.jpg"
   bio              : "Sono Claudia e vivo tra Musica e Parole, in quel di Milano."
   location         : "Milano"
-  email            :
+  email            : "claudia@tramusicaeparole.com"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://el3um4s.github.io/tra-musica-e-parole/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/MusicaEtParole"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://www.facebook.com/tramusicaetparole"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/tramusicaeparole/"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
+    #   url: "https://twitter.com/MusicaEtParole"
     # - label: "Email"
-    # icon: "fas fa-fw fa-envelope-square"
-    # # url: mailto:your.name@email.com
+    #   icon: "fas fa-fw fa-envelope-square"
+    #   url: mailto:claudia@tramusicaeparole.com
     # - label: "GitHub"
     #   icon: "fab fa-fw fa-github"
     #   # url: "https://github.com/"
