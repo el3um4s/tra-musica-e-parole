@@ -58,12 +58,12 @@ title: "{title}"
 usa_webp: true
 header:
   immagine_tipo: "jpg"
-  miniatura: "image.webp"
-  immagine_estesa: "image.webp"
+  miniatura: "image" # non inserire l'estensione del file
+  immagine_estesa: "image" # non inserire l'estensione del file
   immagine_fonte: "Photo credit: [**CreditImageNome**](CreditImageURL)"
   overlay_filter: rgba(79, 79, 79, 0.5)
 date: "{date}"
-excerpt_separator: <!--more-->
+excerpt_separator: <!--more--> # se non usi il tag 'more' elimina questa riga
 categories:
   - Senza Categoria
 tags:
