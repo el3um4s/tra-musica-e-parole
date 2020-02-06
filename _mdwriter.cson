@@ -64,6 +64,10 @@ header:
   overlay_filter: rgba(79, 79, 79, 0.5)
 date: "{date}"
 excerpt_separator: <!--more-->
+categories:
+  - Senza Categoria
+tags:
+  - Altro
 ---
 """
 
