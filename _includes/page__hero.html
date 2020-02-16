@@ -58,7 +58,10 @@
     {% if overlay_img_path %}background-image: {% if overlay_filter %}linear-gradient({{ overlay_filter }}, {{ overlay_filter }}), {% endif %}url('{{ overlay_img_path }}.{{ estensione }}');{% endif %}
   }
 
-  #hero-immagine { padding: 10em 0; }
+  #hero-immagine {
+    padding: 10em 0;
+    background-attachment: fixed;
+  }
 </style>
 
 <div class="page__hero{% if page.header.overlay_color or page.header.overlay_image or page.header.immagine_estesa %}--overlay{% endif %} {% if page.usa_webp %}usa_webp{% else %}non_usa_webp{% endif %}"
