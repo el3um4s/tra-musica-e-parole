@@ -31,5 +31,3 @@ body::-webkit-scrollbar-thumb {
     border-radius: 4px;
 }
 body::-webkit-scrollbar-track { background-color: #1a1d24; }
-
-.page__hero--overlay { padding: 10em 0; }
