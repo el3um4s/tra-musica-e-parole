@@ -52,3 +52,9 @@ Google può anche trasferire queste informazioni a terzi ove ciò sia imposto da
 Potete rifiutarvi di usare i cookies selezionando l’impostazione appropriata sul vostro browser, ma ciò potrebbe impedirvi di utilizzare tutte le funzionalità di questo sito web.
 
 Utilizzando il presente sito web, voi acconsentite al trattamento dei Vostri dati da parte di Google per le modalità e i fini sopraindicati.
+
+<style>
+.page {
+  margin-top:4em;
+}
+</style>

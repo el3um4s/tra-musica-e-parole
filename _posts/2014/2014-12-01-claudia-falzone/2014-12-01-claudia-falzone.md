@@ -24,3 +24,9 @@ Per questo motivo, nell'ultimo anno, **ho deciso di approfondire un altro aspett
 Vivere di giornalismo musicale, in Italia, è molto difficile e richiede molti sacrifici. Da settembre, uno dei sogni che ho sempre avuto è diventato realtà: ho cominciato a scrivere [**alcuni pezzi**](https://www.rollingstone.it/musica/news-musica/tiziano-ferro-ho-bisogno-di-sentire-sempre-lincertezza/250393/) per [**Rolling Stone Italia**](https://www.rollingstone.it/autore/claudia-falzone/), il magazine più rinomato nella stampa musicale. Una di quelle cose per cui essere felici – pur non rinnegando le origini - e che ripagano una lunga gavetta fatta, talvolta, da momenti di sconforto ma anche di tante soddisfazioni.
 
 **Perché ho deciso di aprire questo blog? Per parlare un po' di me, del mio mondo sospeso tra musica e parole.** E non è un caso se ho scelto di affiancare al nome del blog il titolo dell'album dei Pink Floyd "_The Dark Side Of The Moon_": è il mio disco preferito in assoluto, esempio di perfezione sia nelle lyrics sia a livello di arrangiamenti e melodie. Detto questo, qui scriverò alcune recensioni, racconterò qualche aneddoto legato alle interviste che faccio e, nel mio piccolo, proverò a dare qualche consiglio su come gestire al meglio il rapporto, talvolta tormentato, con il mestiere della scrittura. Percorrere questa strada è una scelta spericolata e non priva di difficoltà. Ma con costanza, determinazione, e fiducia nelle proprie capacità, si possono avere risultati inaspettati. E se ve lo dice una che, quattro anni fa, considerava impossibile poter diventare contributor per la rivista di musica più importante in Italia...
+
+<style>
+.page {
+  margin-top:4em;
+}
+</style>
