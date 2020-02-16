@@ -54,7 +54,7 @@ Potete rifiutarvi di usare i cookies selezionando l’impostazione appropriata s
 Utilizzando il presente sito web, voi acconsentite al trattamento dei Vostri dati da parte di Google per le modalità e i fini sopraindicati.
 
 <style>
-.page {
-  margin-top:4em;
+article.page {
+    margin-top: 4em!important;
 }
 </style>
