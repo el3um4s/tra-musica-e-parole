@@ -1,6 +1,6 @@
 ---
 title: "Caparezza e la sua China Town"
-published: false
+published: true
 usa_webp: true
 header:
   immagine_tipo: "jpg"
