@@ -28,11 +28,11 @@ Perché, e qui andiamo a sfatare un luogo comune che ha circondato Drones dall�
 
 “_Dead Inside_” è il pezzo dell’album con le sonorità più elettroniche. In questo sound, però, risiede un lato molto oscuro, espresso solo in parte con le lyrics
 
-> Don't leave me out in the cold,
-> Don't leave me out to die,
-> I gave you everything,
-> I can't give you anymore, 
-> Now I've become just like you
+> Don't leave me out in the cold,  
+> Don't leave me out to die,  
+> I gave you everything,  
+> I can't give you anymore,  
+> Now I've become just like you  
 
 “_Psycho_” ha un incedere vagamente depechemodiano in cui vediamo il protagonista dell’album essere annientato. “_Reapers_” è la traccia più hard rock e coincide con una forte presa di coscienza della propria condizione mentre “_Mercy_” è un grido d’aiuto in cui, per creare il pathos necessario, si fa grande uso di sonorità epiche. Infine, “_Aftermath_”, che rappresenta l’unica ballad dell’album.
 
