@@ -7,6 +7,10 @@ header:
   miniatura: Frankie-Hi-NRG-MC-Quelli-che-benpensano.jpg
   immagine_estesa: Frankie-Hi-NRG-MC-Quelli-che-benpensano.jpg
   overlay_filter: rgba(79, 79, 79, 0.5)
+categories:
+  - Jukebox
+tags:
+  - Frankie Hi NRG
 ---
 
 Una delle cose più belle della musica sono quei brani che, se scritti magistralmente, rimangono indelebili nelle menti di chi li ascolta. Non mi riferisco esclusivamente all'aspetto strumentale ma anche, forse soprattutto, ai testi.

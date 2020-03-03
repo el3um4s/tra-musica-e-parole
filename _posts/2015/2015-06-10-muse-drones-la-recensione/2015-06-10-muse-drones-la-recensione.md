@@ -8,6 +8,10 @@ header:
   miniatura: MUSE_DRONES-COVER-2400-1024x1024.jpg
   immagine_estesa: MUSE_DRONES-COVER-2400-1024x1024.jpg
   overlay_filter: rgba(79, 79, 79, 0.5)
+categories:
+  - Jukebox
+tags:
+  - Muse
 ---
 
 ## Muse Drones

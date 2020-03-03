@@ -7,6 +7,10 @@ header:
   miniatura: syd_barrett.jpg
   immagine_estesa: syd_barrett.jpg
   overlay_filter: rgba(79, 79, 79, 0.5)
+categories:
+  - Jukebox
+tags:
+  - Pink Floyd
 ---
 
 Shine on You Crazy Diamond non è solo una delle suite più belle della musica rock, ma racconta anche una storia struggente: il legame emotivo dei Pink Floyd con il loro _diamante pazzo_ Roger Keith Barrett, per gli amici Syd Barrett, dopo l’allontanamento di quest’ultimo dalla band nel 1968.

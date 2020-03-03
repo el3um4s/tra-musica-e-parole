@@ -7,6 +7,10 @@ header:
   miniatura: Jeremy-Wade-Delle-Pearl-Jem.jpg
   immagine_estesa: Jeremy-Wade-Delle-Pearl-Jem.jpg
   overlay_filter: rgba(79, 79, 79, 0.5)
+categories:
+  - Jukebox
+tags:
+  - Pearl Jam
 ---
 
 I **Pearl Jam** debuttarono nel 1991 con il loro album d’esordio **Ten**, una pietra miliare nella storia della musica che ancora oggi figura nella lista dei 500 migliori album compilata dalla rivista statunitense **Rolling Stone**. Al suo interno vi erano singoli bomba quali _Even Flow_ e _Alive_. Tuttavia, l’estratto che più ha fatto parlare di sé è stato **Jeremy**. Pubblicata come singolo nel 1992, Jeremy è **ispirata a due fatti di cronaca nera realmente avvenuti**.
