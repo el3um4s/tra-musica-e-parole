@@ -25,9 +25,41 @@ Senza di lui le cose filano più lisce, niente più intoppi durante i concerti e
 
 Composta da nove parti, la suite doveva inizialmente essere pubblicata su un solo lato ma, a causa della sua durata, fu separata in due metà (I-V e VI-IX), assumendo il senso di apertura e chiusura dell’album. Gli spezzoni più famosi di questo pezzo leggendario sono quelli del cantato, le cui prime due strofe appaiono nella part 1 e la rimanente nella 2
 
-> Remember when you were young You shone like the sun. Shine on you crazy diamond. Now there’s a look in your eyes Like black holes in the sky. Shine on you crazy diamond You were caught on the cross fire of childhood and stardom, Blown on the steel breeze. Come on you target for faraway laughter Come on you stranger, you legend, you martyr, and shine! You reached for the secret too soon. You cried for the moon. Shine on you crazy diamond. Threatened by shadows at night, and exposed in the light. Shine on you crazy diamond. Well you wore out your welcome with random precision, rode on the steel breeze. Come on you raver, you seer of visions, come on you painter, you piper, you prisoner, and shine
-
-> Nobody knows where you are, how near or how far. Shine on you crazy diamond. Pile on many more layers and I’ll be joining you there. Shine on you crazy diamond. And we’ll bask in the shadow of yesterday’s triumph, sail on the steel breeze Come on you boy child, you winner and loser, come on you miner for truth and delusion,and shine!
+> Remember when you were young
+> You shone like the sun.
+> Shine on you crazy diamond.
+> Now there’s a look in your eyes
+> Like black holes in the sky.
+> Shine on you crazy diamond
+> You were caught on the cross fire
+> of childhood and stardom,
+> Blown on the steel breeze.
+> Come on you target for faraway laughter
+> Come on you stranger, you legend, you martyr, and shine!
+>
+> You reached for the secret too soon.
+> You cried for the moon.
+> Shine on you crazy diamond.
+> Threatened by shadows at night,
+> and exposed in the light.
+> Shine on you crazy diamond.
+> Well you wore out your welcome
+> with random precision,
+> rode on the steel breeze.
+> Come on you raver, you seer of visions,
+> come on you painter,
+> you piper, you prisoner, and shine!
+>
+> Nobody knows where you are,
+> how near or how far.
+> Shine on you crazy diamond.
+> Pile on many more layers
+> and I’ll be joining you there.
+> Shine on you crazy diamond.
+> And we’ll bask in the shadow
+> of yesterday’s triumph, sail on the steel breeze.
+> Come on you boy child, you winner and loser,
+> come on you miner for truth and delusion, and shine!
 
 Nei primissimi versi, **i Pink Floyd ricordano i tempi in cui il genio del loro vecchio compagno non è ancora stato intaccato dal baratro della follia** in cui cadrà in seguito all’abnorme consumo di sostanze stupefacenti.
 

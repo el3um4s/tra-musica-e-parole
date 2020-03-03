@@ -19,19 +19,64 @@ Tra i pezzi ad avermi maggiormente colpita in quanto a lyrics, il primo - cron
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vrpJB7ucC5Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-> Sono intorno a noi, in mezzo a noi, in molti casi siamo noi a far promesse senza mantenerle mai se non per calcolo, il fine è solo l'utile, il mezzo ogni possibile, la posta in gioco è massima, l'imperativo è vincere e non far partecipare nessun altro, nella logica del gioco la sola regola è esser scaltro: niente scrupoli o rispetto verso i propri simili perchè gli ultimi saranno gli ultimi se i primi sono irraggiungibili. Sono tanti arroganti coi più deboli, zerbini coi potenti, sono replicanti, sono tutti identici guardali stanno dietro a maschere e non li puoi distinguere. Come lucertole si arrampicano, e se poi perdon la coda la ricomprano. Fanno quel che vogliono si sappia in giro fanno, spendono, spandono e sono quel che hanno.
+> Sono intorno a noi, in mezzo a noi, in molti casi siamo noi
+> A far promesse senza mantenerle mai se non per calcolo
+> Il fine è solo l'utile, il mezzo ogni possibile
+> La posta in gioco è massima, l'imperativo è vincere
+> E non far partecipare nessun altro
+> Nella logica del gioco la sola regola è esser scaltro
+> Niente scrupoli o rispetto verso i propri simili
+> Perché gli ultimi saranno gli ultimi se i primi sono irraggiungibili
+>
+> Sono tanti, arroganti coi più deboli
+> Zerbini coi potenti, sono replicanti
+> Sono tutti identici, guardali
+> Stanno dietro a maschere e non li puoi distinguere
+> Come lucertole s'arrampicano
+> E se poi perdon la coda la ricomprano
+> Fanno quel che vogliono si sappia in giro fanno
+> Spendono, spandono e sono quel che hanno
 
 In questa prima strofa, i bersagli presi di mira dal rapper - al secolo Francesco Di Gesù - sono **gli arrampicatori sociali**, ovvero coloro pronti a tutto per conseguire i risultati prefissati, anche vendere l'anima al diavolo. Non conoscono pudore, rispetto o morale: l'unica cosa importante è scalare i vertici della società e arrivare al comando, passando sui cadaveri di chi prova ad arrestare la loro cavalcata verso il potere.
 
 ![]({{site.immagini}}{{ page.date | date: "%Y/%Y-%m-%d"}}-{{page.url | remove_first: "/"}}Claudia-Falzone-Quelli-che-benpensano-Apparire.png)
 
-> E come le supposte abitano in blisters full-optional con cani oltre i 120 decibels e nani manco fosse Disneyland vivon col timore di poter sembrare poveri quel che hanno ostentano, tutto il resto invidiano poi lo comprano, in costante escalation col vicino costruiscono parton dal pratino e vanno fino in cielo han più parabole sul tetto che S.Marco nel Vangelo Sono quelli che di sabato lavano automobili che alla sera sfrecciano tra l'asfalto e i pargoli medi come i ceti cui appartengono terra-terra come i missili cui assomigliano Tiratissimi, s'infarinano s'alcolizzano e poi s'impastano su un albero - boom! Nasi bianchi come Fruit of the Loom che diventano più rossi d'un livello di Doom.
+> E come le supposte abitano in blisters full-optional
+> Con cani oltre i 120 decibel e nani manco fosse Disneyland
+> Vivono col timore di poter sembrare poveri
+> Quel che hanno ostentano, tutto il resto invidiano, poi lo comprano
+> In costante escalation col vicino costruiscono
+> Parton dal pratino e vanno fino in cielo
+> Han più parabole sul tetto che Sa nMarco nel Vangelo
+>
+> Sono quelli che di sabato lavano automobili
+> Che alla sera sfrecciano tra l'asfalto e i pargoli
+> Medi come i ceti cui appartengono
+> Terra-terra come i missili cui assomigliano
+>
+> Tiratissimi, s'infarinano, s'alcolizzano
+> E poi s'impastano su un albero
+> Nasi bianchi come Fruit of the Loom
+> Che diventano più rossi d'un livello di Doom
 
 Nella seconda, invece, oggetto della critica sono coloro che, vuoi per mancanza di autostima o per lo scopo di primeggiare sempre e comunque, **basano la loro vita sulle apparenze e i dettagli frivoli**. Secondo questa categoria di persone, il valore di un individuo si misura dai cavalli della sua automobile, dalla grandezza della sua casa, dal possedere la parabola satellitare o dal numero di strisce di cocaina sniffate. Tutto è concesso, basta sembrare ricchi e vincenti. La regola è ostentare, quando si ha, e invidiare fino alla morte quando non si ha, arrivando al punto di consumare il proprio denaro pur di essere sempre al top.
 
 ![]({{site.immagini}}{{ page.date | date: "%Y/%Y-%m-%d"}}-{{page.url | remove_first: "/"}}Claudia-Falzone-Quelli-che-benpensano-Ipocrisia.png)
 
-> Ognun per sé, Dio per sé mani che si stringono tra i banchi delle chiese alla domenica mani ipocrite, mani che fan cose che non si raccontano altrimenti le altre mani chissà cosa pensano, si scandalizzano Mani che poi firman petizioni per lo sgombero mani lisce come olio di ricino, mani che brandiscon manganelli che farciscono gioielli, che si alzano alle spalle dei fratelli Quelli che la notte non si può girare più quelli che vanno a mignotte mentre i figli guardan la tv che fanno i boss, che compran Class che son sofisticati da chiamare i NAS, incubi di plastica che vorrebbero dar fuoco ad ogni zingara ma l'unica che accendono è quella che da loro l'elemosina ogni sera quando mi nascondo sulla faccia oscura della loro luna nera.
+> Ognun per se, Dio per se, mani che si stringono tra i banchi delle chiese alla domenica
+> Mani ipocrite, mani che fan cose che non si raccontano
+> Altrimenti le altre mani chissà cosa pensano, si scandalizzano
+> Mani che poi firman petizioni per lo sgombero
+> Mani lisce come olio di ricino
+> Mani che brandisco Manganelli, che Farciscono Gioielli
+> Che si alzano alle spalle dei Fratelli
+> Quelli che la notte non si può girare più
+> Quelli che vanno a mignotte mentre i figli guardan La TV
+> Che fanno i boss, che compra Class
+> Che son sofisticati da chiamare i NAS, incubi di Plastica
+> Che vorrebbero dar fuoco ad ogni zingara
+> Ma l'unica che accendono è quella che da loro l'elemosina ogni sera
+> Quando mi nascondo sulla faccia oscura della loro luna nera
 
 Infine, una tipologia di personaggi la cui madre, come quella dei cretini, è destinata a rimanere perennemente incinta: **gli ipocriti**. Generalmente viscidi, sono i finti moralisti fino al midollo, col solo scopo di mantenere una parvenza di persone per bene quando, lontani dagli occhi di tutti, si comportano in modo diametralmente opposto. Per esempio, madri e padri di famiglia che vanno in chiesa ed esercitano volontariato mentre, all'interno delle mura di casa propria, non sappiano cosa significhi comprensione. O mariti all'apparenza perfetti che, millantando riunioni di lavoro, passano la notte tra un festino o l'altro.
 

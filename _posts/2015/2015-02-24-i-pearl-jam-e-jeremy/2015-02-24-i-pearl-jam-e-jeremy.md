@@ -19,33 +19,65 @@ L’8 gennaio 1991 un ragazzo di 16 anni, **Jeremy Wade Delle**, si uccise davan
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MS91knuzoOA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-> At home Drawing pictures Of mountain tops With him on top Lemon yellow sun Arms raised in a V And the dead lay in pools of maroon below
+> At home Drawing pictures
+> Of mountain tops With him on top
+> Lemon yellow sun Arms raised in a V
+> And the dead lay in pools of maroon below
 >
-> Daddy didn't give attention Oh, to the fact that mommy didn't care King Jeremy The Wicked Ruled his world
+> Daddy didn't give attention
+> Oh, to the fact that mommy didn't care
+> King Jeremy The Wicked Ruled his world
 >
-> Jeremy spoke in class today Jeremy spoke in class today
+> Jeremy spoke in class today
+> Jeremy spoke in class today
 
-> A casa, disegnando immagini di cime montuose con lui sopra Un sole giallo limone, braccia alzate a formare una V E sotto i morti che giacciono in pozze di sangue rappreso
+> A casa, disegnando immagini
+> di cime montuose con lui sopra
+> Un sole giallo limone, braccia alzate a formare una V
+> E sotto i morti che giacciono in pozze di sangue rappreso
 >
-> A papà non importava che mamma non si preoccupasse Re Jeremy il malvagio, dominava il suo mondo
+> A papà non importava che mamma non si preoccupasse
+> Re Jeremy il malvagio, dominava il suo mondo
 >
-> Jeremy ha parlato in classe oggi Jeremy ha parlato in classe oggi
+> Jeremy ha parlato in classe oggi
+> Jeremy ha parlato in classe oggi
 
 Jeremy era un adolescente turbato, problematico, probabilmente preso in giro dai compagni che non erano in grado di comprendere il suo malessere interiore, la bestia malefica che lo stava divorando. Le prese in giro verso quel ragazzo che consideravano “_sfigato_” sembravano normali, avranno pensato i suoi compagni. Chi, in fondo, non è mai passato attraverso gli sfottò dei coetanei forse più ricchi, magari più fighi e senza dubbio più ignoranti?
 
 ![]({{site.immagini}}{{ page.date | date: "%Y/%Y-%m-%d"}}-{{page.url | remove_first: "/"}}solitudine-bambino.jpg)
 
-> Clearly I remember Pickin' on the boy Seemed a harmless little fuck But we unleashed a lion Gnashed his teeth And bit the recess lady's breast How could I forget And he hit me with a surprise left My jaw left hurting Dropped wide open Just like the day Oh, like the day I heard
+> Clearly I remember Pickin' on the boy
+> Seemed a harmless little fuck
+> But we unleashed a lion Gnashed his teeth
+> And bit the recess lady's breast How could I forget
+> And he hit me with a surprise left
+> My jaw left hurting Dropped wide open
+> Just like the day
+> Oh, like the day I heard
 >
-> Daddy didn't give affection, no! And the boy was something that mommy wouldn't wear King Jeremy The Wicked Ruled his world
+> Daddy didn't give affection, no!
+> And the boy was something that mommy wouldn't wear
+> King Jeremy The Wicked Ruled his world
 >
-> Jeremy spoke in class today Jeremy spoke in class today Jeremy spoke in class today
+> Jeremy spoke in class today
+> Jeremy spoke in class today
+> Jeremy spoke in class today
 
-> Ricordo chiaramente quando stuzzicavamo il ragazzo Sembrava un idiota inoffensivo Ma scatenammo un leone Digrignò i denti e morse il petto dell'insegnante Come potrei dimenticare? E mi colpì con un sinistro che mi colse di sorpresa Lasciò la mia mascella dolorante, a bocca aperta Proprio come il giorno, come il giorno in cui ho saputo
+> Ricordo chiaramente quando stuzzicavamo il ragazzo
+> Sembrava un idiota inoffensivo
+> Ma scatenammo un leone
+> Digrignò i denti e morse il petto dell'insegnante
+> Come potrei dimenticare? E mi colpì con un sinistro che mi colse di sorpresa
+> Lasciò la mia mascella dolorante, a bocca aperta
+> Proprio come il giorno, come il giorno in cui ho saputo
 >
-> Papà non era affettuoso, no E il ragazzo era qualcosa di cui la madre non si curava Re Jeremy il malvagio dominava il suo mondo
+> Papà non era affettuoso, no
+> E il ragazzo era qualcosa di cui la madre non si curava
+> Re Jeremy il malvagio dominava il suo mondo
 >
-> Jeremy ha parlato in classe oggi Jeremy ha parlato in classe oggi Jeremy ha parlato in classe oggi
+> Jeremy ha parlato in classe oggi
+> Jeremy ha parlato in classe oggi
+> Jeremy ha parlato in classe oggi
 
 Invece **Jeremy era davvero un ragazzo solo**. L’unica amica che aveva si chiamava Lisa Moore, l’aveva incontrata al programma scolastico di sospensione e si scrivevano molti messaggi. In questo rapporto epistolare fatto di bigliettini, Jeremy le aveva confidato di voler parlare della sua vita e dei suoi progetti, In tutti i bigliettini c’era la dicitura “**Rispondi**”. Tranne l’ultimo, dove preannunciava ciò che avrebbe fatto ma al quale l’amica non diede il peso adeguato.
 
@@ -53,13 +85,25 @@ Eddie Vedder fu davvero colpito dalla vicenda, che aveva appreso dai giornali. R
 
 ![]({{site.immagini}}{{ page.date | date: "%Y/%Y-%m-%d"}}-{{page.url | remove_first: "/"}}jeremy-video.jpg)
 
-> Try to forget this (try to forget this) Try to erase this (try to erase this) From the blackboard
+> Try to forget this (try to forget this)
+> Try to erase this (try to erase this)
+> From the blackboard
 >
-> Jeremy spoke in class today Jeremy spoke in class today Jeremy spoke in, spoke in Jeremy spoke in, spoke in Jeremy spoke in class today
+> Jeremy spoke in class today
+> Jeremy spoke in class today
+> Jeremy spoke in, spoke in
+> Jeremy spoke in, spoke in
+> Jeremy spoke in class today
 
-> Cerco di dimenticare tutto questo (cerco di dimenticarlo) Cerco di cancellare tutto questo (cerco di cancellarlo)) Dalla lavagna
+> Cerco di dimenticare tutto questo (cerco di dimenticarlo)
+> Cerco di cancellare tutto questo (cerco di cancellarlo))
+> Dalla lavagna
 >
-> Jeremy ha parlato in classe oggi Jeremy ha parlato in classe oggi Jeremy ha parlato, parlato Jeremy ha parlato, parlato Jeremy ha parlato in classe oggi.
+> Jeremy ha parlato in classe oggi
+> Jeremy ha parlato in classe oggi
+> Jeremy ha parlato, parlato
+> Jeremy ha parlato, parlato
+> Jeremy ha parlato in classe oggi.
 
 **I fatti drammaticamente legati al brano, tuttavia, non finiscono qui**. Nel 1996 uno studente di Washington, Barry Loukatis, andò a scuola armato e uccise due studenti e un professore. Al momento del suo arresto dichiarò di essere stato ispirato da "Jeremy". Nel 1999, successivamente alla strage di Columbine - nella quale i liceali Eric Harris e Dylan Klebold uccisero 15 persone (inclusi loro stessi) e ne ferirono altre 24 - **MTV decise di non trasmettere il video** per diverso tempo come misura precauzionale, sebbene gli autori del massacro non avessero mai espresso alcun collegamento o legame con la canzone.
 
