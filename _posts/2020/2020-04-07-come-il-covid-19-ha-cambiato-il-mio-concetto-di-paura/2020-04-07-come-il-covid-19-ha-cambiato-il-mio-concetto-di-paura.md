@@ -6,7 +6,7 @@ header:
   immagine_tipo: "jpg"
   miniatura: "coronavirus-cusano-milanino" # non inserire l'estensione del file
   immagine_estesa: "coronavirus-cusano-milanino" # non inserire l'estensione del file
-  immagine_fonte: "Photo credit: [**CreditImageNome**](CreditImageURL)"
+  immagine_fonte: "Photo credit: [**Samuele**](https://blog.stranianelli.com/)"
   overlay_filter: rgba(79, 79, 79, 0.5)
 date: "2020-04-07 20:12"
 categories:
@@ -22,6 +22,8 @@ Se, prima del 21 febbraio, qualcuno mi avesse chiesto quale fosse stato l’even
 Vuoi per la mia giovane età all’epoca - 27 anni appena compiuti - vuoi per il terrore e lo spavento che hanno provato, oltre alla sottoscritta, anche i miei genitori, pensavo di aver sperimentato il significato della vera paura. Invece non è del tutto vero.
 
 Non sto sminuendo il dolore di quell’esperienza, che comunque mi ha segnata nel profondo, ma quando ci si ritrova a vivere fianco a fianco con un virus sconosciuto come il Covid-19, tutto inevitabilmente cambia. Le incomprensioni, le arrabbiature quotidiane, le paranoie sul cosa dire e cosa fare puff, svaniscono.
+
+{% include picture img="cusano-milanino-covid-19" ext="jpg" alt="Cusano Milanino - Covid-19" %}
 
 Non eravamo pronti per il Coronavirus e non avremmo mai potuto esserlo. Siamo stati inghiottiti da un mostro gigante che ha preso le piccole grandi certezze - o finte tali - di ognuno e le ha accartocciate come un foglio di brutta non più utilizzabile. Il vero problema, adesso, non è come sconfiggere la noia causata dallo stare sempre chiusi in casa, bensì fare i conti con un dramma di portata mondiale contro il quale non c’è ancora un rimedio. E se, questo pericolo, arriva a pochi passi da noi, colpendo direttamente i nostri cari, la sua presenza diventa più palpabile e minacciosa.
 
