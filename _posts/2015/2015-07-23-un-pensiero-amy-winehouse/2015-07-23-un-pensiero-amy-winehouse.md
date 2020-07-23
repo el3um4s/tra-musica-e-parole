@@ -4,8 +4,8 @@ usa_webp: true
 date: "2015-07-23"
 header:
   immagine_tipo: "jpg"
-  miniatura: Amy-winehouse.webp
-  immagine_estesa: Amy-winehouse.webp
+  miniatura: Amy-winehouse
+  immagine_estesa: Amy-winehouse
   overlay_filter: rgba(79, 79, 79, 0.5)
 ---
 
