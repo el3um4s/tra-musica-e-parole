@@ -2,7 +2,7 @@
 {% assign img = img[0] %}
 
 {% if page.usa_webp %}
-  <picture>
+  <picture class='{% if include.class %}{{ include.class }}{% endif %}'>
       <source type='image/webp' data-srcset='{{site.immagini}}{{ page.date | date: "%Y/%Y-%m-%d"}}-{{page.url | remove_first: "/"}}{{ img }}.webp' >
       <img data-src='{{site.immagini}}{{ page.date | date: "%Y/%Y-%m-%d"}}-{{page.url | remove_first: "/"}}{{ img }}.{{ include.ext }}' alt='{{ include.alt }}' class="lazy" />
   </picture>

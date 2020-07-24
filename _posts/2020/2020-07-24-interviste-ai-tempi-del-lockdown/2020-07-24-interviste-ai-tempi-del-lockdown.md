@@ -39,7 +39,7 @@ Non saprei scegliere un personaggio in particolare. Sono molto felice di aver av
 
 **La pandemia ha causato danni e problemi a tutti e tre i macrosettori** che sono stati costretti a fermarsi. La musica, il cinema e il teatro sono stati colpiti pesantemente con la cancellazione o il rinvio di spettacoli, concerti, festival in programma e il blocco per diversi mesi delle riprese di film, serie tv e soap. **Questo ha creato parecchie difficoltà a tutta la filiera produttiva e in particolare alle tantissime persone che lavorano dietro le quinte** (macchinisti, operai, scenografi, tecnici, sceneggiatori, montatori, sarti ecc.) **che vivono di questo lavoro e che si sono trovati senza stipendio.** Anche lo sport ha subito un lungo stop con la chiusura anticipata dei campionati di basket e volley, con la cancellazione di parecchi tornei, con il rinvio di un anno degli Europei di calcio maschili e femminili e delle Olimpiadi di Tokyo 2020. L’impatto è stato sicuramente molto forte, in particolare per le realtà sportive dilettantistiche o con meno capitali a disposizione.
 
-{% include picture img="interviste-ai-tempi-del-lockdown-little" ext="jpg" alt="" %}{: immagine_centrata}
+{% include picture img="interviste-ai-tempi-del-lockdown-little" ext="jpg" alt="" class="immagine_centrata"%}{: immagine_centrata}
 
 
 **Hai deciso di devolvere tutti i proventi del tuo libro, acquistabile su Amazon, alla Protezione Civile e alla raccolta per l’ex maratoneta Vincenza Sicari. Ti va di raccontare brevemente la sua vicenda, per chi ancora non la conoscesse?**{: .domanda_intervista}
