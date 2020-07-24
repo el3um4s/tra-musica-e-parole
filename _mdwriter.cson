@@ -228,7 +228,7 @@ lineStyles:
 # - align: alignment of image
 #
 #imageTag: '![{alt}]({{site.immagini}}{{ page.date | date: "%Y/%Y-%m-%d"}}-{{page.url | remove_first: "/"}}{src})'
-imageTag: '{% include picture img="{src}" ext="jpg" alt="{alt}" %}'
+imageTag: '{% include picture img="{src}" ext="jpg" alt="{alt}" style="{style}" %}'
 #imageTag: '![{alt}]({{site.immagini}}{src})'
 #imageTag: '![{alt}]({{ "/{src}" | absolute_url }})'
 # Use relative path to image from the opened file
