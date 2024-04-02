@@ -5,7 +5,7 @@ date: 2020-07-24 17:40
 categories:
   - Senza Categoria
 cover: cover.webp
-column: Jukebox
+column: Interviste
 description: Sebbene sembra che il momento più drammatico della pandemia sia alle spalle, la preoccupazione e le paure non ci hanno abbandonato del tutto. Un po’ per portare leggerezza e un po’ per raccontare la sua esperienza, la giornalista Francesca Monti, direttrice della testata giornalistica Spettacolo Musica Sport - Quotidiano, ha pubblicato il libro “Interviste ai tempi del lockdown”
 ---
 Sebbene sembra che il momento più drammatico della pandemia sia alle spalle, la preoccupazione e le paure non ci hanno abbandonato del tutto. Un po’ per portare leggerezza e un po’ per raccontare la sua esperienza, **la giornalista Francesca Monti**, direttrice della testata giornalistica _Spettacolo Musica Sport - Quotidiano_, **ha pubblicato il libro** _“**Interviste ai tempi del lockdown**”_, [disponibile su Amazon](https://www.amazon.it/INTERVISTE-AI-TEMPI-DEL-LOCKDOWN-ebook/dp/B089YT6J48).
