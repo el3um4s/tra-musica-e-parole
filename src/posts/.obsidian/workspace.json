@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "40940b4489e26483",
+    "type": "split",
+    "children": [
+      {
+        "id": "2eaa877c5bbe2c91",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b0aa7448f8bc9285",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "821edf1c9a2f882c",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2133ec95184566b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ec8894ed9638d54",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "60a72a6899843952",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "gallery",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e7c171b94d7c8cdb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 404.5
+  },
+  "right": {
+    "id": "787e2429f51f629a",
+    "type": "split",
+    "children": [
+      {
+        "id": "72ca03afe3420ae7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "23dd749723bf3a89",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4f46a7027fc0ff8f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d1d876ed549359e1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6cfbf25a48adf9e3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1ec8894ed9638d54",
+  "lastOpenFiles": [
+    "2020/2020-03-03-caparezza-e-la-sua-china-town/post.md",
+    "2020/2020-04-07-come-il-covid-19-ha-cambiato-il-mio-concetto-di-paura/coronavirus-cusano-milanino.jpg",
+    "2014/contact/post.md",
+    "2014/contact/cover.webp",
+    "2014/contact/cover.webp.crdownload",
+    "2015/smemoranda-2016-mi-piace/post.md",
+    "2015/laura-pausini-simili-nuovo-album-storie-uguali-diverse/post.md",
+    "2015/i-pearl-jam-e-jeremy/post.md",
+    "2014/claudia-falzone/post.md",
+    "2020/2020-07-24-interviste-ai-tempi-del-lockdown/post.md",
+    "2014/contact",
+    "2016/concerti-claustrofobia-un-connubio-impossibile/musica-e-claustrofobia-03.webp.crdownload",
+    "2016/concerti-claustrofobia-un-connubio-impossibile/musica-e-claustrofobia-04.webp.crdownload",
+    "2016/concerti-claustrofobia-un-connubio-impossibile/cover.webp.crdownload",
+    "2020/2020-02-16-quale-musica-ascoltare-mentre-si-lavora/cover.webp.crdownload",
+    "2020/2020-02-02-si-ricomincia/cover.webp.crdownload",
+    "2020/2020-02-02-si-ricomincia/image.jpg",
+    "2020/2020-02-02-si-ricomincia/image.jpg.crdownload",
+    "2020/2020-07-24-interviste-ai-tempi-del-lockdown/cover.webp",
+    "2020/2020-07-24-interviste-ai-tempi-del-lockdown/francesca-monti.webp",
+    "2020/2020-07-24-interviste-ai-tempi-del-lockdown/interviste-ai-tempi-del-lockdown-little.webp",
+    "2020/2020-07-24-interviste-ai-tempi-del-lockdown/interviste-ai-tempi-del-lockdown.webp",
+    "2020/2020-04-07-come-il-covid-19-ha-cambiato-il-mio-concetto-di-paura/post.md",
+    "2020/2020-04-07-come-il-covid-19-ha-cambiato-il-mio-concetto-di-paura/cover.webp",
+    "2020/2020-04-07-come-il-covid-19-ha-cambiato-il-mio-concetto-di-paura/coronavirus-cusano-milanino.webp",
+    "2020/2020-02-16-quale-musica-ascoltare-mentre-si-lavora/post.md",
+    "2020/2020-02-16-quale-musica-ascoltare-mentre-si-lavora/cover.webp",
+    "2020/2020-02-02-si-ricomincia/post.md",
+    "2020/2020-07-24-interviste-ai-tempi-del-lockdown",
+    "2020/2020-04-07-come-il-covid-19-ha-cambiato-il-mio-concetto-di-paura",
+    "2016/2016-12-22-decibel-di-nuovo-insieme-dopo-40-anni-il-rock-e-la-nuova-musica-classica/post.md",
+    "2016/2016-12-02-tiziano-ferro-album-racconto-mestiere-della-vita/post.md",
+    "2016/2016-11-28-il-viaggio-di-annalisa-nello-spazio-con-tutta-colpa-di-galileo/post.md",
+    "2016/2016-10-14-urban-strangers-detachment-presa-di-coscienza/post.md",
+    "2016/2016-11-24-concerti-claustrofobia-un-connubio-impossibile/post.md",
+    "2016/2016-07-14-venti-passi-giorno-7-serie-tv/post.md",
+    "2016/2016-08-01-venti-passi-giorno-11-5-impossibile-vivere-senza-musica/post.md",
+    "2016/2016-07-06-venti-passi-giorno-3-canzoni-della-vita/post.md",
+    "2016/2016-07-26-venti-passi-giorno-10-cera-volta-festivalbar/post.md",
+    "2016/2016-07-18-venti-passi-giorno-9-zeno/post.md",
+    "2016/2016-07-16-i-venti-passi-giorno-8-accetta-il-consiglio/post.md",
+    "2016/2016-07-12-venti-passi-giorno-6-non-asociale/post.md",
+    "2016/2016-07-09-venti-passi-giorno-5-dannata-sintesi/post.md",
+    "2016/2016-07-08-venti-passi-giorno-4-sedicesima-lettera/post.md",
+    "2016/2016-07-05-venti-passi-giorno-2-oasi/post.md"
+  ]
+}
