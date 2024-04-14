@@ -4,7 +4,7 @@ published: true
 date: 2020-02-16 16:29
 categories:
   - Nessuna Categoria
-cover: cover.webp
+cover: cover.jpg
 description: "Come ho già anticipato nel post precedente, la mia carriera ha avuto una svolta abbastanza importante: da libera professionista nel mondo della scrittura con tanto di partita IVA che lavorava da casa - o dalla biblioteca - adesso sono diventata un’impiegata con un suo ufficio."
 ---
 Come ho già anticipato nel [post precedente](https://www.tramusicaeparole.com/si-ricomincia/), la mia carriera ha avuto una svolta abbastanza importante: da libera professionista nel mondo della scrittura con tanto di partita IVA che lavorava da casa - o dalla biblioteca - adesso sono diventata un’impiegata con un suo ufficio. Una cosa, però, è rimasta invariata: la necessità di avere le sette note a farmi compagnia durante la giornata. E sapete qual è il bello? Secondo diversi studi, l’ascolto di musica nell’orario lavorativo stimola il rilascio della dopamina, ormone che rende il lavoratore più felice, più produttivo e meno stressato.
