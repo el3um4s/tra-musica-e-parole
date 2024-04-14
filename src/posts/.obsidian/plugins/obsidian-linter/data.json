@@ -262,7 +262,7 @@
   "recordLintOnSaveLogs": false,
   "displayChanged": true,
   "lintOnFileChange": true,
-  "displayLintOnFileChangeNotice": false,
+  "displayLintOnFileChangeNotice": true,
   "settingsConvertedToConfigKeyValues": true,
   "foldersToIgnore": [],
   "linterLocale": "system-default",

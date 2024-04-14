@@ -4,7 +4,7 @@ date: 2024-04-14
 categories:
   - Nessuna Categoria
 description: Questo è un post di prova
-published: true
+published: false
 cover: 12345.jpg
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sit amet ligula et dolor fringilla auctor. Morbi aliquam ullamcorper metus. Vestibulum et porta lorem, ac lobortis erat. In cursus ipsum dolor, eu maximus metus gravida vel. Aliquam magna mauris, fermentum nec ipsum quis, efficitur blandit sem. Etiam ac semper erat. Sed fermentum rutrum sollicitudin. Suspendisse scelerisque mauris ut erat facilisis, sed convallis eros molestie. Proin tincidunt vel metus commodo luctus. Nam nec erat magna.
