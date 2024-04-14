@@ -10,7 +10,7 @@ description: La storia della musica è piena di brani dedicati a un amore presen
 ---
 La storia della musica è piena di brani dedicati a un amore presente o passato, ma è possibile scrivere una canzone d’amore per una forma d’arte? Se conoscete il brano “China Town” di Caparezza, non c’è nemmeno bisogno di specificare la risposta.
 
-ChinaTown è inserita nel disco Museica, un concept album interamente dedicato all’arte, soprattutto quella pittorica - non a caso, visto che Michele Salvemini è un fumettista mancato. Essendo però anche un ottimo autore di testi, non poteva esserci uno spazio dedicato alla scrittura. Quale dedica migliore di una ballad, anzi della prima ballad mai pubblicata da Caparezza, per sua stessa ammissione?
+China Town è inserita nel disco Museica, un concept album interamente dedicato all’arte, soprattutto quella pittorica - non a caso, visto che Michele Salvemini è un fumettista mancato. Essendo però anche un ottimo autore di testi, non poteva esserci uno spazio dedicato alla scrittura. Quale dedica migliore di una ballad, anzi della prima ballad mai pubblicata da Caparezza, per sua stessa ammissione?
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zW2_PdTNTNM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Caparezza"></iframe>
 
